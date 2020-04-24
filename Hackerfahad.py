@@ -69,9 +69,9 @@ def tik():
 
 
 back = 0
-berhasil = []
+DONE = []
 cekpoint = []
-oks = []
+ok = []
 id = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "FAHAD AFSAR"
-CorrectPassword = "FAHAD786"
+CorrectUsername =fahad
+CorrectPassword = fahad
 
 loop = 'true'
 while (loop == 'true'):
